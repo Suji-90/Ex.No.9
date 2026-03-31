@@ -1,10 +1,11 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Date:28.03.26
+# Reg. No.:212223040212
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
+
 ## Procedure:
 1.	Analyze the Generated Video:
 ○	Examine the Video carefully, noting key elements such as:
@@ -48,6 +49,26 @@ Tools/LLMs for Video Generation:
 2.	The Final Generated Video: The Video created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+
+
+## Refined Prompt (Detailed Prompt):
+
+"A cinematic sunset over purple mountains with a golden-orange sky, a calm river reflecting the sunset colors, soft clouds moving slowly, birds flying in the sky, realistic lighting, 4K quality, smooth camera movement, peaceful atmosphere."
+
+## Comparison with Original Video:
+
+| Feature  | Original Video       | Generated Video                |
+| -------- | -------------------- | ------------------------------ |
+| Colors   | Natural sunset tones | Slightly enhanced colors       |
+| Lighting | Realistic            | Mostly realistic               |
+| Motion   | Natural movement     | Smooth but slightly artificial |
+| Details  | High detail          | Moderate detail                |
+| Overall  | Real-world quality   | Close approximation            |
+
+
+https://github.com/user-attachments/assets/5e518e17-7146-41b5-8a44-c28069acfe93
+
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
